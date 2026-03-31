@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #777;
+		color: #616D7E;
 		line-height: 1.65em;
 		font-size: 15pt;
 	}
@@ -108,7 +108,7 @@ input, select, textarea {
 	h1, h2, h4, h5 {
 		font-weight: 600;
 		text-transform: uppercase;
-		color: #888;
+		color: #616D7E;	
 	}
 
 	h3, h6 {
