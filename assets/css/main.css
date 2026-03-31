@@ -2184,7 +2184,7 @@ input, select, textarea {
 	}
 
 		#features p {
-			text-align: center;
+			text-align: left;
 		}
 
 		#features ul.actions {
