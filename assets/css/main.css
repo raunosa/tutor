@@ -2025,7 +2025,7 @@ input, select, textarea {
 
 		#header p {
 			text-transform: uppercase;
-			font-weight: 400;
+			font-weight: bold;
 			color: #888;
 			margin: 2.5em 0 0 0;
 			font-size: 0.85em;
@@ -2089,6 +2089,7 @@ input, select, textarea {
 					transition: color 0.25s ease-in-out;
 					font-size: 0.85em;
 					letter-spacing: 3px;
+					font-weight: bold;
 				}
 
 			#nav > ul > li > ul {
