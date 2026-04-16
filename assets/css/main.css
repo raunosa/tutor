@@ -236,7 +236,7 @@ input, select, textarea {
 /* right side box */
 .right-box {
     float: right; /* Float the box to the right */
-    width: 110%; /* Take up 100% of the column width */
+    width: 100%; /* Take up 100% of the column width */
     padding: 1em;
     background-color: rgba(255, 228, 181, 0.3); /* Light orange with transparency */
     border: 4px double #d4a373; /* Double-lined border */
